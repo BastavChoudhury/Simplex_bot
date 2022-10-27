@@ -81,4 +81,4 @@ If you want to support the bot with out coding feel free to leave us somthing.  
 
 
 
-Github command list will update soon
+Github command list will update soon.
